@@ -1,4 +1,4 @@
-const API_URL = 'https://tablon-notas-backend-px5o.onrender.com/api/notas';
+const API_URL = 'https://tablon-notas-backend.onrender.com/api/notas'; 
 
 const formulario = document.getElementById('formulario-nota');
 const contenedorNotas = document.getElementById('contenedor-notas');
